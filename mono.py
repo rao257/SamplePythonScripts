@@ -4,7 +4,7 @@
 #Author: Suraj Patil
 #Version: 2.0
 #Date: 27th March 2014
-
+# Added a comment 
 implements the monoalphabetic algorithm
 every alphabet in a..z is replaced by a unique character
 '''
